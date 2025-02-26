@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Arman-sahakyan/online-shop/static/css/main.0a117f77.css",
-    "main.js": "/Arman-sahakyan/online-shop/static/js/main.cf1f33c3.js",
+    "main.js": "/Arman-sahakyan/online-shop/static/js/main.eb6f921d.js",
     "static/js/453.0f4552a2.chunk.js": "/Arman-sahakyan/online-shop/static/js/453.0f4552a2.chunk.js",
     "static/media/about-us-page-heading.jpg": "/Arman-sahakyan/online-shop/static/media/about-us-page-heading.49bea30e0661642da44b.jpg",
     "static/media/women-02.jpg": "/Arman-sahakyan/online-shop/static/media/women-02.a9a7a13c5b44086718c3.jpg",
@@ -25,11 +25,11 @@
     "static/media/explore-image-02.jpg": "/Arman-sahakyan/online-shop/static/media/explore-image-02.7fb1af6b068fc4368365.jpg",
     "index.html": "/Arman-sahakyan/online-shop/index.html",
     "main.0a117f77.css.map": "/Arman-sahakyan/online-shop/static/css/main.0a117f77.css.map",
-    "main.cf1f33c3.js.map": "/Arman-sahakyan/online-shop/static/js/main.cf1f33c3.js.map",
+    "main.eb6f921d.js.map": "/Arman-sahakyan/online-shop/static/js/main.eb6f921d.js.map",
     "453.0f4552a2.chunk.js.map": "/Arman-sahakyan/online-shop/static/js/453.0f4552a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a117f77.css",
-    "static/js/main.cf1f33c3.js"
+    "static/js/main.eb6f921d.js"
   ]
 }
